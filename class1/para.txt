@@ -1,0 +1,3 @@
+this is a simple file
+it has many line in it
+i want to find frequency of words

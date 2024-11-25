@@ -22,17 +22,6 @@ Comparison
 Tableau is better for quick fixes and lightweight cleaning.
 Power BI’s Power Query Editor offers more robust data transformation tools.
 
-
-
------------------------------------------------------
-
-Comparison
-Tableau is better for quick fixes and lightweight cleaning.
-Power BI’s Power Query Editor offers more robust data transformation tools.
-If you’d like detailed steps for a specific task (e.g., handling missing values or creating a calculated field), let me know!
-
-
-
 -----------------------------------------------------
 
 Cleaning Data in Tableau:

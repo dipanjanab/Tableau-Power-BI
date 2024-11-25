@@ -1,0 +1,41 @@
+Problem Statement:
+
+The dataset contains sample sales data, including order details, customer segments, regional sales, and product categories.
+The goal is to analyze sales trends, identify high-performing regions and products, and understand customer purchasing behaviors to inform strategic decision-making.
+
+Goal: 
+
+To derive actionable insights into sales performance and customer segmentation using Tableau and Power BI dashboards.
+This will support better decision-making in areas such as inventory management, targeted marketing, and regional sales strategies.
+
+Possible Visualization Questions
+
+What are the overall sales trends over time?
+Visualization Idea: Line chart to display monthly or yearly sales growth.
+
+Which regions contribute the most and least to total sales?
+Visualization Idea: A filled map or bar chart showing regional sales distribution.
+
+What are the top 10 products by revenue?
+Visualization Idea: Horizontal bar chart with product names and sales amounts.
+
+How do sales vary by customer segments (e.g., corporate, individual)?
+Visualization Idea: Stacked bar chart comparing revenue from each segment.
+
+What is the correlation between discount rates and sales performance?
+Visualization Idea: Scatter plot with discounts on the x-axis and sales on the y-axis.
+
+Which product categories have the highest and lowest profit margins?
+Visualization Idea: Heatmap with product categories and profit margins.
+
+What are the sales contributions of each sales representative or team?
+Visualization Idea: Pie chart or treemap for sales contributions.
+
+How does order quantity impact revenue across different product categories?
+Visualization Idea: Bubble chart or grouped bar chart.
+
+What are the busiest months for sales, and how does seasonality affect sales?
+Visualization Idea: Line chart comparing monthly sales across years.
+
+What percentage of orders come from repeat customers versus new customers?
+Visualization Idea: Donut chart or bar chart showing order proportions.

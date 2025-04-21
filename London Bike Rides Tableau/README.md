@@ -2,11 +2,16 @@
 # Source: Kaggle - London Bike Sharing Dataset
 
 # Column Name| Description
-timestamp    | Date and time of the observation
-cnt          | Count of total bike shares
-t1           | Real temperature in Celsius
-t2           | Feels like temperature in Celsius
-hum          | Humidity (relative)
+timestamp    | Date and time of the observation <br />
+
+cnt          | Count of total bike shares <br />
+
+t1           | Real temperature in Celsius <br />
+
+t2           | Feels like temperature in Celsius <br />
+
+hum          | Humidity (relative) <br />
+
 wind_speed   | Wind speed
 weather_code | Weather condition code (e.g., clear, snow, rain)
 is_holiday   | 1 if the day is a public holiday

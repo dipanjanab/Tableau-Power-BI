@@ -1,4 +1,4 @@
-## Dataset Name: London Bike Sharing Dataset
+## Project name: London Bike Sharing Dataset
 
 ![Image](https://github.com/user-attachments/assets/eb134a88-8a5c-449a-a6ab-f986c8987bde)
 
@@ -8,17 +8,17 @@ The data used for analysis can be found in the following file:
 
 ## Business questions & Interpretation:
 
-What are your key insights from this data?
+-What are your key insights from this data?
 
-What factors influence bike rentals the most?
+-What factors influence bike rentals the most?
 
-How can city planners use your predictions to improve bike infrastructure?
+-How can city planners use your predictions to improve bike infrastructure?
 
-How would you explain your model to a non-technical stakeholder?
+-How would you explain your model to a non-technical stakeholder?
 
-What assumptions are you making in your model?
+-What assumptions are you making in your model?
 
-If the dataset is updated daily, how would you schedule regular retraining?
+-If the dataset is updated daily, how would you schedule regular retraining?
 
 ## PROJECT FILES
 Link to the github repository (contains all of the files you need to follow along or re-create the project at home) ➡︎ https://github.com/mochen862/LondonBi...

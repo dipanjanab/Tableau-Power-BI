@@ -1,5 +1,7 @@
 ## Dataset Name: London Bike Sharing Dataset
 
+![Image](https://github.com/user-attachments/assets/eb134a88-8a5c-449a-a6ab-f986c8987bde)
+
 ### Source: Kaggle - London Bike Sharing Dataset/ 
 London Bike Rides Tableau/london_merged.csv
 
